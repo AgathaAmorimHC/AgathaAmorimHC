@@ -15,15 +15,15 @@ Analista de QA focada em testes manuais e automatizados, apaixonada por qualidad
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
-Sou Analista de Qualidade em desenvolvimento contínuo. Minha bagagem em suporte técnico e atendimento fortalece minha escuta ativa, empatia com o usuário e pensamento crítico — habilidades que aplico diariamente para garantir a qualidade de software.
+Sou Analista de Qualidade em desenvolvimento contínuo. Minha bagagem em suporte técnico e atendimento fortalece minha escuta ativa, empatia com o usuário e pensamento crítico, habilidades que aplico diariamente para garantir a qualidade de software.
 
 Estudo Segurança Cibernética (SENAC) e me especializo em testes automatizados com **Cypress** e **Playwright**, atuando na validação de fluxos críticos, identificação de bugs e entrega de evidências robustas.
 
 ---
 
-##  Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Testes
 - Testes manuais exploratórios e funcionais
@@ -42,7 +42,7 @@ Estudo Segurança Cibernética (SENAC) e me especializo em testes automatizados 
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -53,7 +53,7 @@ Estudo Segurança Cibernética (SENAC) e me especializo em testes automatizados 
 
 ---
 
-##  Interesses
+## Interesses
 
 Além da tecnologia, tenho grande interesse por:
 - Psicologia e neurociência (com foco em TDAH)
@@ -62,7 +62,7 @@ Além da tecnologia, tenho grande interesse por:
 
 ---
 
-##  Curiosidade
+## Curiosidade
 
 > “Testar é antecipar o caos para que o usuário nunca precise enfrentá-lo.”
 
