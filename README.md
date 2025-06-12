@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/agathasiqueiradeamorim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Agatha%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:seu.email@email.com" target="_blank">
+  <a href="mailto:amorim.agatha93@outloos.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
@@ -56,7 +56,7 @@ Atualmente desenvolvo projetos práticos de testes automatizados e funcionais, e
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 Se você está em busca de uma profissional curiosa, dedicada e pronta para crescer com o time de QA, conecte-se comigo!
 
