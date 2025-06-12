@@ -20,7 +20,7 @@
 
 ---
 
-###  Sobre mim
+###  Sobre mim:
 
 Sou **QA Jr. com foco em automação de testes e qualidade contínua**, apaixonada por encontrar falhas antes que o cliente encontre. Com background em suporte técnico e atendimento, trago uma visão centrada no usuário, aliada a testes estratégicos orientados ao risco.
 
@@ -63,9 +63,9 @@ Minha missão como QA é clara: **proteger o produto, antecipando falhas crític
 
 ---
 
-###  Curiosidade
+### 🐞 Meu lema como QA:
 
-> Eu quebro antes que o cliente encontre! Sempre com foco em automação estratégica, testes orientados ao risco e qualidade contínua como cultura, não como etapa final.
+> Testar não é apenas garantir que funcione — é garantir que falhe da forma certa, no momento certo, com o menor impacto possível.
 
 ---
 
