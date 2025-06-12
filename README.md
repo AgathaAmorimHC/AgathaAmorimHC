@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/agathasiqueiradeamorim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Agatha%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:amorim.agatha93@outloos.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
+<a href="mailto:amorim.agatha93@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 </p>
 
 ---
@@ -33,7 +34,7 @@ Atualmente desenvolvo projetos práticos de testes automatizados e funcionais, e
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### 📂 QA-Automação Cypress Login
 - **Descrição:** Fluxo de autenticação automatizado com testes positivos, negativos e capturas.
@@ -65,7 +66,7 @@ Se você está em busca de uma profissional curiosa, dedicada e pronta para cres
 
 ---
 
-<p align="center"><i>“Testar é prevenir — e prevenir com qualidade é entregar confiança.”</i></p>
+<p align="center"><i>“Testar é prevenir e prevenir com qualidade é entregar confiança.”</i></p>
 
 
 <!--
