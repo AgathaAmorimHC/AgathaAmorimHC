@@ -63,9 +63,9 @@ Minha missão como QA é clara: **proteger o produto, antecipando falhas crític
 
 ---
 
-### 🐞 Meu lema como QA:
+###  Meu lema como QA:
 
-> Testar não é apenas garantir que funcione — é garantir que falhe da forma certa, no momento certo, com o menor impacto possível.
+> Testar não é apenas garantir que funcione, é garantir que falhe da forma certa, no momento certo, com o menor impacto possível.
 
 ---
 
