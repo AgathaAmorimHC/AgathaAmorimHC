@@ -1,86 +1,80 @@
 <h1 align="center">Agatha Amorim | QA Jr. | Cypress & Playwright | Testes Automatizados</h1>
 
 <p align="center">
-    <a href="https://github.com/AgathaAmorimHC?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Portfólio-GitHub-000?style=for-the-badge&logo=github"></a>
-    <a href="https://www.linkedin.com/in/agathasiqueiradeamorim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:amorim.agatha93@outlook.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-Contato-800000?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/agathasiqueiradeamorim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Agatha%20Amorim-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AgathaAmorimHC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AgathaAmorimHC-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:amorim.agatha93@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-amorim.agatha93%40outlook.com-darkgreen?style=for-the-badge&logo=microsoftoutlook" alt="Email">
+  </a>
 </p>
 
 ---
 
-## Sobre mim
+### Sobre mim
 
-Sou Agatha Amorim, formada em Segurança Cibernética e em transição de carreira para **Qualidade de Software (QA)** com foco em **automação de testes**. Tenho experiência prática com Cypress e Playwright, aplicando boas práticas como Page Object Model, geração automática de evidências e testes funcionais em pipelines simples.
+Sou Analista de QA em formação, com foco em automação de testes end-to-end e garantia da qualidade de software. Atuo com Cypress e Playwright, escrevendo testes robustos, reutilizáveis e orientados à detecção precoce de falhas críticas. Minha missão é proteger a experiência do usuário com testes inteligentes, alinhados ao negócio e ao comportamento real.
 
-Apaixonada por qualidade, venho desenvolvendo projetos próprios que simulam cenários reais de login, fluxo de compra e validações funcionais. Gosto de construir testes pensando no comportamento do usuário e na escalabilidade da automação.
-
----
-
-## Habilidades Técnicas
-
-- **Automação Web:** Cypress, Playwright, JavaScript
-- **Testes Funcionais:** E2E, testes de login, fluxo de compra, validações dinâmicas
-- **Boas práticas:** Page Object Model, geração automática de prints/logs, custom commands
-- **Organização de testes:** Estrutura modular e reutilizável, foco em manutenção
-- **Outras habilidades:** Git/GitHub, documentação de evidências, mindset ágil (Scrum)
+- Background técnico em Segurança Cibernética (SENAC, em andamento)  
+- Visão voltada à qualidade desde o atendimento até a entrega final  
+- Experiência anterior com suporte técnico e resolução de problemas em tempo real  
 
 ---
 
-## Projetos em destaque
+### Habilidades Técnicas
 
-### 📁 [Automação E2E com Playwright - SauceDemo](https://github.com/AgathaAmorimHC/qa-e2e-playwright-saucedemo)
+**Automação de Testes**
+- Escrita de testes automatizados com Cypress e Playwright (JS/TS)
+- Page Object Model (POM), comandos customizados, fixtures e interceptações
+- Geração de evidências (prints, vídeos e logs)
 
-> Projeto completo de testes E2E com Playwright. Estrutura organizada com Page Objects, automação de login e fluxo de compra simulando um usuário real.
+**Testes Funcionais e Validação**
+- Criação de cenários com base em critérios de aceitação
+- Validação de fluxo de login, autenticação e mensagens de erro
+- Testes de front-end orientados à regressão e comportamento do usuário
 
-**Destaques técnicos:**
-- Testes reutilizáveis com JavaScript e Playwright
-- Estrutura POM clara e escalável
-- Geração automática de evidências (prints e logs)
-- Simulação de caminhos felizes e negativos
-
----
-
-### 📁 [Automação Cypress - Testes de Login](https://github.com/AgathaAmorimHC/teste-automacao-cypress-login)
-
-> Projeto voltado ao login de usuário com Cypress, incluindo testes positivos, negativos e organização em camadas reutilizáveis.
-
-**Destaques técnicos:**
-- Cypress com JavaScript
-- Custom Commands e testes independentes
-- Estrutura de testes legível e fácil de manter
-- Geração automática de prints ao falhar
+**Ferramentas & Integrações**
+- Git e GitHub para versionamento
+- GitHub Actions para automações básicas
+- Allure Reports para geração de evidências (em desenvolvimento)
+- VSCode, Node.js, NPM
 
 ---
 
-## Em desenvolvimento
+### Projetos em Destaque
 
-| Ferramenta/Skill | Status |
-|------------------|--------|
-| Allure Reports   | Em exploração |
-| Testes de API    | Em aprendizado |
-| CI/CD básico     | Planejado para projetos futuros |
+#### 📁 [Automação com Playwright - SauceDemo](https://github.com/AgathaAmorimHC/qa-e2e-playwright-saucedemo)
+Teste E2E da plataforma SauceDemo usando Playwright com boas práticas:
+- Uso de Page Object Model para modularidade
+- Testes organizados por fluxo (login, carrinho, compra)
+- Evidências automáticas de cada execução
 
----
-
-## Interesses
-
-- Garantia da qualidade centrada no comportamento real do usuário
-- Segurança e testes preventivos
-- Aprendizado contínuo sobre testes automatizados, acessibilidade e cobertura
+#### 📁 [Cypress - Teste de Login](https://github.com/AgathaAmorimHC/teste-automacao-cypress-login)
+Simula tentativas de login com validações específicas:
+- Teste de mensagens de erro e fluxo positivo
+- Reaproveitamento de comandos para manutenção eficiente
+- Uso de interceptações para simular chamadas de API
 
 ---
 
-## Curiosidade técnica
+### Roadmap de Aprendizado
 
-“Busco antecipar falhas críticas com uma abordagem centrada no risco e comportamento real do usuário. Minha missão como QA é proteger o produto do improvável com testes que simulam o imprevisível.”
-
----
-
-## Vamos nos conectar?
-
-- LinkedIn: [https://www.linkedin.com/in/agathasiqueiradeamorim](https://www.linkedin.com/in/agathasiqueiradeamorim)
-- GitHub: [https://github.com/AgathaAmorimHC](https://github.com/AgathaAmorimHC)
-- Email: [amorim.agatha93@outlook.com](mailto:amorim.agatha93@outlook.com)
+| Ferramenta/Tecnologia                | Status          |
+|-------------------------------------|------------------|
+| Testes de API (Postman, Cypress)    | Em desenvolvimento |
+| Integração Allure Reports           | Em progresso     |
+| Testes com CI/CD (GitHub Actions)   | Rascunho inicial |
+| Testes com Playwright em múltiplos browsers | Concluído |
 
 ---
 
+### Interesses & Curiosidades
+
+Fora da área técnica, sou apaixonada por psicologia e comportamento humano, o que reflete na minha abordagem de QA voltada à empatia com o usuário.
+
+> Busco antecipar falhas críticas com uma abordagem centrada no risco e comportamento real do usuário. Minha missão como QA é proteger o produto do improvável com testes que simulam o imprevisível.
+
+---
