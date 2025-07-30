@@ -1,50 +1,37 @@
-<h1 align="center">Agatha Amorim | QA Jr. | Cypress & Playwright | Testes Automatizados</h1>
+# 💜 Olá, eu sou a Agatha!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/agathasiqueiradeamorim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Agatha%20Amorim-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AgathaAmorimHC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AgathaAmorimHC-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:amorim.agatha93@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-amorim.agatha93%40outlook.com-darkgreen?style=for-the-badge&logo=microsoftoutlook" alt="Email">
-  </a>
-</p>
+Sou Analista de Qualidade de Software em formação, com foco em aplicar testes eficientes, identificar falhas e contribuir para entregas mais confiáveis. Estou em transição de carreira e, desde então, venho desenvolvendo projetos práticos de testes manuais e automatizados, sempre com foco na experiência do usuário, rastreabilidade e melhoria contínua.
 
 ---
 
-### Sobre mim
+## Sobre mim
 
-Sou Analista de QA em formação, com foco em automação de testes end-to-end e garantia da qualidade de software. Atuo com Cypress e Playwright, escrevendo testes robustos, reutilizáveis e orientados à detecção precoce de falhas críticas. Minha missão é proteger a experiência do usuário com testes inteligentes, alinhados ao negócio e ao comportamento real.
-
-- Background técnico em Segurança Cibernética (SENAC, em andamento)  
-- Visão voltada à qualidade desde o atendimento até a entrega final  
-- Experiência anterior com suporte técnico e resolução de problemas em tempo real  
-
----
-
-### Habilidades Técnicas
-
-**Automação de Testes**
-- Escrita de testes automatizados com Cypress e Playwright (JS/TS)
-- Page Object Model (POM), comandos customizados, fixtures e interceptações
-- Geração de evidências (prints, vídeos e logs)
-
-**Testes Funcionais e Validação**
-- Criação de cenários com base em critérios de aceitação
-- Validação de fluxo de login, autenticação e mensagens de erro
-- Testes de front-end orientados à regressão e comportamento do usuário
-
-**Ferramentas & Integrações**
-- Git e GitHub para versionamento
-- GitHub Actions para automações básicas
-- Allure Reports para geração de evidências (em desenvolvimento)
-- VSCode, Node.js, NPM
+✓  QA Jr. com foco em testes exploratórios, funcionais, de API e automatizados com Cypress
+✓ Experiência prática com ferramentas como Postman, GitHub, Trello, Notion e VSCode
+✓ Criação de roteiros de testes com base em critérios de aceite e comportamento da aplicação
+✓ Execução e documentação de testes com captura de evidências e bugs reportados
+✓ Testes manuais e automatizados em aplicações web com foco em usabilidade e estabilidade
+✓ Projetos no GitHub com POM, testes negativos, CI básico com GitHub Actions e boas práticas
+✓ Apaixonada por aprender, compartilhar conhecimento e crescer em ambientes colaborativos
+✓ Comunicação clara, curiosidade técnica e comprometimento com entregas de qualidade
 
 ---
 
-### Projetos em Destaque
+##  Tecnologias e Ferramentas
+
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+
+### Projetos:
 
 #### 📁 [Automação com Playwright - SauceDemo](https://github.com/AgathaAmorimHC/qa-e2e-playwright-saucedemo)
 Teste E2E da plataforma SauceDemo usando Playwright com boas práticas:
@@ -60,21 +47,19 @@ Simula tentativas de login com validações específicas:
 
 ---
 
-### Roadmap de Aprendizado
-
-| Ferramenta/Tecnologia                | Status          |
-|-------------------------------------|------------------|
-| Testes de API (Postman, Cypress)    | Em desenvolvimento |
-| Integração Allure Reports           | Em progresso     |
-| Testes com CI/CD (GitHub Actions)   | Rascunho inicial |
-| Testes com Playwright em múltiplos browsers | Concluído |
-
----
-
 ### Interesses & Curiosidades
 
 Fora da área técnica, sou apaixonada por psicologia e comportamento humano, o que reflete na minha abordagem de QA voltada à empatia com o usuário.
 
 > Busco antecipar falhas críticas com uma abordagem centrada no risco e comportamento real do usuário. Minha missão como QA é proteger o produto do improvável com testes que simulam o imprevisível.
-
 ---
+
+## 💜 Vamos conversar?
+
+📍 São Paulo/SP (disponível para remoto)  
+📧 agatha.amorim@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/agathaamorimhc)  
+🔗 [GitHub](https://github.com/AgathaAmorimHC)
+
+
+
