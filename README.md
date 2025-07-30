@@ -6,14 +6,14 @@ Sou Analista de Qualidade de Software em formação, com foco em aplicar testes 
 
 ## Sobre mim
 
-✓  QA Jr. com foco em testes exploratórios, funcionais, de API e automatizados com Cypress
-✓ Experiência prática com ferramentas como Postman, GitHub, Trello, Notion e VSCode
-✓ Criação de roteiros de testes com base em critérios de aceite e comportamento da aplicação
-✓ Execução e documentação de testes com captura de evidências e bugs reportados
-✓ Testes manuais e automatizados em aplicações web com foco em usabilidade e estabilidade
-✓ Projetos no GitHub com POM, testes negativos, CI básico com GitHub Actions e boas práticas
-✓ Apaixonada por aprender, compartilhar conhecimento e crescer em ambientes colaborativos
-✓ Comunicação clara, curiosidade técnica e comprometimento com entregas de qualidade
+- ✓  QA Jr. com foco em testes exploratórios, funcionais, de API e automatizados com Cypress
+- ✓ Experiência prática com ferramentas como Postman, GitHub, Trello, Notion e VSCode
+- ✓ Criação de roteiros de testes com base em critérios de aceite e comportamento da aplicação
+- ✓ Execução e documentação de testes com captura de evidências e bugs reportados
+- ✓ Testes manuais e automatizados em aplicações web com foco em usabilidade e estabilidade
+- ✓ Projetos no GitHub com POM, testes negativos, CI básico com GitHub Actions e boas práticas
+- ✓ Apaixonada por aprender, compartilhar conhecimento e crescer em ambientes colaborativos
+- ✓ Comunicação clara, curiosidade técnica e comprometimento com entregas de qualidade
 
 ---
 
