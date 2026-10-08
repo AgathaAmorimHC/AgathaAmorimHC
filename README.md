@@ -18,6 +18,12 @@ Essas experiências não substituem um processo completo de Product Design. Elas
 
 > **Sobre os cases:** as descrições apresentam atividades e resultados registrados. Materiais internos ou confidenciais de trabalho não são publicados. Nos projetos em construção, não atribuo resultados que ainda não foram medidos.
 
+## Protótipo em destaque
+
+**[Agendador simples — explorar protótipo interativo no Figma](https://www.figma.com/proto/HU6DKk2ai6OTCrS6jSmV2V/Agendador-simples-%C2%B7-prot%C3%B3tipo?node-id=3-564&p=f&t=ybXiEcZWtQD33wl1-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A10)**
+
+Estudo de interface e fluxo de agendamento, com protótipo navegável. Uma forma de apresentar visualmente meu processo de aprendizado em UI, sem expor informações internas de projetos profissionais.
+
 ## Ferramentas e aprendizado
 
 - **Design de interfaces:** Figma, criação de telas e protótipos; estudos de UI, tipografia, cores e organização visual.
