@@ -1,43 +1,44 @@
-# 💜 Olá, eu sou a Agatha Amorim!
-
+# Agatha Amorim
 ### Design de interfaces & produtos digitais
 
-Desenvolvo projetos de interfaces e protótipos no **Figma**, conectando design, necessidades das pessoas e visão de negócio. Estou construindo minha trajetória em **UI/Product Design**, com experiência em Business Intelligence e formação em andamento em **Análise e Desenvolvimento de Sistemas**.
+**Meu foco é transformar problemas do cotidiano em interfaces mais claras e experiências mais simples de usar.**
 
-Meu foco é criar interfaces claras e experiências que façam sentido para quem usa, com um olhar que conecta pessoas, dados e tecnologia.
+Estou construindo minha trajetória em **UI/Product Design**, criando interfaces e protótipos no **Figma** e aprofundando meus estudos em hierarquia visual, tipografia, cores e navegação. Trago experiência em **dados, atendimento e processos** — repertório que me ajuda a olhar não apenas para a aparência de uma tela, mas também para a informação apresentada e para a tarefa que a pessoa precisa realizar.
 
-## O repertório que trago
+## O que minha experiência já demonstra
 
-- **Interfaces e protótipos:** projetos de estudo no Figma, com prática em organização visual, tipografia, cores e fluxos de navegação.
-- **Dados e negócio:** experiência como Analista de BI (estágio), com cerca de **15 dashboards e relatórios** desenvolvidos para apoiar decisões, utilizando Power BI, Power Query e DAX.
-- **Atendimento e processos:** vivência com necessidades de clientes e rotinas operacionais, incluindo a criação de uma solução no-code para agendamento de consultas.
-- **Base técnica:** graduação em ADS e conhecimentos básicos de HTML, CSS, JavaScript e SQL, que complementam meu aprendizado em design.
+- **Identifiquei** conflitos potenciais no agendamento manual de uma clínica e criei um aplicativo **no-code** para organizar os horários; uma medição posterior apontou **20% menos retrabalho nas tarefas avaliadas**.
+- **Desenvolvi** cerca de **15 dashboards e relatórios** em um estágio de Business Intelligence, estruturando informações no **Power BI** para apoiar a consulta de indicadores e decisões.
+- **Ajustei** a interface de um painel de pós-vendas, revisando a apresentação de valores e criando alternância entre quantidade e faturamento com **DAX**, para permitir duas formas de consultar os indicadores.
+- **Validei** indicadores de contas a receber entre **Excel e Power BI**, reproduzindo filtros e conferindo subtotais, até confirmar a correspondência dos valores no recorte analisado de 2025.
 
-## Portfólio em construção
+Essas experiências não substituem um processo completo de Product Design. Elas mostram minha prática em **identificar problemas, organizar informação, propor soluções e avaliar resultados** — capacidades que levo para o design de interfaces.
 
-Estou organizando meus projetos para apresentar o problema, minha participação, as decisões e as evidências disponíveis.
+## Projetos e cases
 
-| Projeto | Foco | Etapa |
+| Projeto | Problema e contribuição | Evidência / andamento |
 | --- | --- | --- |
-| Site pessoal | Apresentação profissional, hierarquia visual e navegação em página única | Interface em desenvolvimento no Figma |
-| Case de agendamento — Clínica Interatos | Organização de consultas e melhoria do processo de agendamento | Documentação da experiência e do fluxo em construção |
+| **[Agendamentos na Clínica Interatos](https://app.notion.com/p/3ed74b0e5f8980eaa151de905753de66)** | Transformei o controle manual de horários em um aplicativo no-code. | Redução medida de **20% no retrabalho** das tarefas avaliadas; documentação do case em evolução. |
+| **[Dashboard de vendas no Power BI](https://app.notion.com/p/3ed74b0e5f8980ddbdc7ed30258e737d)** | Estruturei dados de vendas, clientes, produtos e lojas, desenvolvi indicadores e refinei o painel após feedback do gestor. | Dashboard entregue e revisado; dados internos não serão publicados. |
+| **[Apresentação de indicadores de pós-vendas](https://app.notion.com/p/3ed74b0e5f89806aa064f2af7393beeb)** | Ajustei cards e opções de consulta por quantidade ou faturamento. | Melhorias implementadas; impacto de uso não mensurado. |
+| **Site pessoal / portfólio** | Estudo de hierarquia visual, tipografia e navegação em uma página única. | Interface em desenvolvimento no Figma. |
 
-## Ferramentas e formação
+> **Sobre os cases:** as descrições apresentam atividades e resultados registrados. Materiais internos ou confidenciais de trabalho não são publicados. Nos projetos em construção, não atribuo resultados que ainda não foram medidos.
 
-- **Design:** Figma — interfaces e protótipos.
-- **Dados:** Power BI, Power Query, DAX e Excel; SQL básico.
-- **Desenvolvimento:** conhecimentos básicos de HTML, CSS, JavaScript e GitHub.
-- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas — SENAC, com conclusão prevista para dezembro de 2027.
-- **Estudos atuais:** UI Design — Origamid.
+## Ferramentas e aprendizado
 
-## Estudos anteriores
+- **Design de interfaces:** Figma, criação de telas e protótipos; estudos de UI, tipografia, cores e organização visual.
+- **Dados e visualização:** Power BI, Power Query, DAX e Excel; SQL básico.
+- **Base de desenvolvimento:** HTML, CSS, JavaScript, Python e GitHub — conhecimentos básicos.
+- **Formação:** Tecnologia em **Análise e Desenvolvimento de Sistemas (SENAC)**, conclusão prevista para **abril de 2027**.
+- **Aprofundamento atual:** curso **UI Design para Iniciantes — Origamid**.
 
-Também mantenho neste GitHub projetos de estudo em qualidade de software. Eles registram uma etapa anterior do meu aprendizado e complementam meu repertório técnico. Meu foco profissional atual é **design de interfaces e produtos digitais**.
+## Minha direção profissional
 
-## Vamos conversar?
+Busco **oportunidades de entrada em UI/Product Design**, com foco em **design de interfaces, prototipação e experiência do usuário**. Quero contribuir para produtos que facilitem tarefas reais, combinando sensibilidade para as necessidades das pessoas, clareza visual e compreensão do contexto de negócio.
 
-Busco oportunidades de entrada em **UI/Product Design**, nas quais eu possa contribuir com interfaces e protótipos, compreender problemas de uso e continuar desenvolvendo meu repertório em produto.
+Meu histórico também inclui estudos em testes de software e automação. Eles continuam registrados nos repositórios, como parte da minha formação técnica, mas **não representam meu foco profissional atual**.
 
-📍 São Paulo/SP · Disponível para trabalho remoto ou híbrido na capital.
+📍 São Paulo, SP · Interesse em oportunidades remotas ou híbridas na capital.
 
-[LinkedIn](https://www.linkedin.com/in/agathaamorimhc) · [GitHub](https://github.com/AgathaAmorimHC)
+**[LinkedIn](https://www.linkedin.com/in/agathaamorimhc)** · **[Repositórios](https://github.com/AgathaAmorimHC?tab=repositories)**
