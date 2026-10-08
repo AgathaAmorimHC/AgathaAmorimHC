@@ -1,4 +1,4 @@
-# Agatha Amorim
+#  💜 Agatha Amorim
 ### Design de interfaces & produtos digitais
 
 **Meu foco é transformar problemas do cotidiano em interfaces mais claras e experiências mais simples de usar.**
@@ -14,13 +14,6 @@ Estou construindo minha trajetória em **UI/Product Design**, criando interfaces
 
 Essas experiências não substituem um processo completo de Product Design. Elas mostram minha prática em **identificar problemas, organizar informação, propor soluções e avaliar resultados** — capacidades que levo para o design de interfaces.
 
-## Projetos e cases
-
-| Projeto | Problema e contribuição | Evidência / andamento |
-| --- | --- | --- |
-| **[Agendamentos na Clínica Interatos](https://app.notion.com/p/3ed74b0e5f8980eaa151de905753de66)** | Transformei o controle manual de horários em um aplicativo no-code. | Redução medida de **20% no retrabalho** das tarefas avaliadas; documentação do case em evolução. |
-| **[Dashboard de vendas no Power BI](https://app.notion.com/p/3ed74b0e5f8980ddbdc7ed30258e737d)** | Estruturei dados de vendas, clientes, produtos e lojas, desenvolvi indicadores e refinei o painel após feedback do gestor. | Dashboard entregue e revisado; dados internos não serão publicados. |
-| **[Apresentação de indicadores de pós-vendas](https://app.notion.com/p/3ed74b0e5f89806aa064f2af7393beeb)** | Ajustei cards e opções de consulta por quantidade ou faturamento. | Melhorias implementadas; impacto de uso não mensurado. |
 | **Site pessoal / portfólio** | Estudo de hierarquia visual, tipografia e navegação em uma página única. | Interface em desenvolvimento no Figma. |
 
 > **Sobre os cases:** as descrições apresentam atividades e resultados registrados. Materiais internos ou confidenciais de trabalho não são publicados. Nos projetos em construção, não atribuo resultados que ainda não foram medidos.
@@ -30,8 +23,8 @@ Essas experiências não substituem um processo completo de Product Design. Elas
 - **Design de interfaces:** Figma, criação de telas e protótipos; estudos de UI, tipografia, cores e organização visual.
 - **Dados e visualização:** Power BI, Power Query, DAX e Excel; SQL básico.
 - **Base de desenvolvimento:** HTML, CSS, JavaScript, Python e GitHub — conhecimentos básicos.
-- **Formação:** Tecnologia em **Análise e Desenvolvimento de Sistemas (SENAC)**, conclusão prevista para **abril de 2027**.
-- **Aprofundamento atual:** curso **UI Design para Iniciantes — Origamid**.
+- **Formação:** Tecnologia em **Análise e Desenvolvimento de Sistemas (SENAC)**, conclusão prevista para **Dezembro de 2027**.
+- **Aprofundamento atual:** curso **UI Design — Origamid**.
 
 ## Minha direção profissional
 
