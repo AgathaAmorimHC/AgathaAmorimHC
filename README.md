@@ -27,8 +27,8 @@ Estou organizando meus projetos para apresentar o problema, minha participação
 - **Design:** Figma — interfaces e protótipos.
 - **Dados:** Power BI, Power Query, DAX e Excel; SQL básico.
 - **Desenvolvimento:** conhecimentos básicos de HTML, CSS, JavaScript e GitHub.
-- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas — SENAC, com conclusão prevista para abril de 2027.
-- **Estudos atuais:** UI Design para Iniciantes — Origamid.
+- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas — SENAC, com conclusão prevista para dezembro de 2027.
+- **Estudos atuais:** UI Design — Origamid.
 
 ## Estudos anteriores
 
