@@ -1,64 +1,43 @@
-# 💜 Olá, eu sou a Agatha!
+# 💜 Olá, eu sou a Agatha Amorim!
 
-Sou Analista de Qualidade de Software em formação, com foco em aplicar testes eficientes, identificar falhas e contribuir para entregas mais confiáveis. Estou em transição de carreira e, desde então, venho desenvolvendo projetos práticos de testes manuais e automatizados, sempre com foco na experiência do usuário, rastreabilidade e melhoria contínua.
+### Design de interfaces & produtos digitais
 
----
+Desenvolvo projetos de interfaces e protótipos no **Figma**, conectando design, necessidades das pessoas e visão de negócio. Estou construindo minha trajetória em **UI/Product Design**, com experiência em Business Intelligence e formação em andamento em **Análise e Desenvolvimento de Sistemas**.
 
-## 🐞 Sobre mim 
+Meu foco é criar interfaces claras e experiências que façam sentido para quem usa, com um olhar que conecta pessoas, dados e tecnologia.
 
--   QA Jr. com foco em testes exploratórios, funcionais, de API e automatizados com Cypress
--  Experiência prática com ferramentas como Postman, GitHub, Trello, Notion e VSCode
--  Criação de roteiros de testes com base em critérios de aceite e comportamento da aplicação
--  Execução e documentação de testes com captura de evidências e bugs reportados
--  Testes manuais e automatizados em aplicações web com foco em usabilidade e estabilidade
--  Projetos no GitHub com POM, testes negativos, CI básico com GitHub Actions e boas práticas
--  Apaixonada por aprender, compartilhar conhecimento e crescer em ambientes colaborativos
--  Comunicação clara, curiosidade técnica e comprometimento com entregas de qualidade
+## O repertório que trago
 
----
+- **Interfaces e protótipos:** projetos de estudo no Figma, com prática em organização visual, tipografia, cores e fluxos de navegação.
+- **Dados e negócio:** experiência como Analista de BI (estágio), com cerca de **15 dashboards e relatórios** desenvolvidos para apoiar decisões, utilizando Power BI, Power Query e DAX.
+- **Atendimento e processos:** vivência com necessidades de clientes e rotinas operacionais, incluindo a criação de uma solução no-code para agendamento de consultas.
+- **Base técnica:** graduação em ADS e conhecimentos básicos de HTML, CSS, JavaScript e SQL, que complementam meu aprendizado em design.
 
-##  Tecnologias e Ferramentas
+## Portfólio em construção
 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+Estou organizando meus projetos para apresentar o problema, minha participação, as decisões e as evidências disponíveis.
 
----
+| Projeto | Foco | Etapa |
+| --- | --- | --- |
+| Site pessoal | Apresentação profissional, hierarquia visual e navegação em página única | Interface em desenvolvimento no Figma |
+| Case de agendamento — Clínica Interatos | Organização de consultas e melhoria do processo de agendamento | Documentação da experiência e do fluxo em construção |
 
+## Ferramentas e formação
 
-###  Projetos:
+- **Design:** Figma — interfaces e protótipos.
+- **Dados:** Power BI, Power Query, DAX e Excel; SQL básico.
+- **Desenvolvimento:** conhecimentos básicos de HTML, CSS, JavaScript e GitHub.
+- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas — SENAC, com conclusão prevista para abril de 2027.
+- **Estudos atuais:** UI Design para Iniciantes — Origamid.
 
-#### 📁 [Automação com Playwright - SauceDemo](https://github.com/AgathaAmorimHC/qa-e2e-playwright-saucedemo)
-Teste E2E da plataforma SauceDemo usando Playwright com boas práticas:
-- Uso de Page Object Model para modularidade
-- Testes organizados por fluxo (login, carrinho, compra)
-- Evidências automáticas de cada execução
+## Estudos anteriores
 
-#### 📁 [Cypress - Teste de Login](https://github.com/AgathaAmorimHC/teste-automacao-cypress-login)
-Simula tentativas de login com validações específicas:
-- Teste de mensagens de erro e fluxo positivo
-- Reaproveitamento de comandos para manutenção eficiente
-- Uso de interceptações para simular chamadas de API
+Também mantenho neste GitHub projetos de estudo em qualidade de software. Eles registram uma etapa anterior do meu aprendizado e complementam meu repertório técnico. Meu foco profissional atual é **design de interfaces e produtos digitais**.
 
----
+## Vamos conversar?
 
-### Interesses & Curiosidades
+Busco oportunidades de entrada em **UI/Product Design**, nas quais eu possa contribuir com interfaces e protótipos, compreender problemas de uso e continuar desenvolvendo meu repertório em produto.
 
-Fora da área técnica, sou apaixonada por psicologia e comportamento humano, o que reflete na minha abordagem de QA voltada à empatia com o usuário.
+📍 São Paulo/SP · Disponível para trabalho remoto ou híbrido na capital.
 
-> Busco antecipar falhas críticas com uma abordagem centrada no risco e comportamento real do usuário. Minha missão como QA é proteger o produto do improvável com testes que simulam o imprevisível.
----
-
-## 💜 Vamos conversar?
-
-📍 São Paulo/SP (disponível para remoto)  
-📧 agatha.amorim@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/agathaamorimhc)  
-🔗 [GitHub](https://github.com/AgathaAmorimHC)
-
-
-
+[LinkedIn](https://www.linkedin.com/in/agathaamorimhc) · [GitHub](https://github.com/AgathaAmorimHC)
